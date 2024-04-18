@@ -1,0 +1,17 @@
+{
+  "name": "PRESALE 1T OPCION#0",
+  "image": "https://essential-writer-codebase.github.io/connect-wallet-ton/images/logo-nft.png",
+  "buttons": [
+    {
+      "label": "GET",
+      "uri": "https://testnet.getgems.io/collection/EQBBtIgbq1FhKAdjRNFXlK6Ex5UFrceOrcUXcOSval6BBf1I"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "1T"
+    }
+  ],
+  "description": "just do it"
+}
