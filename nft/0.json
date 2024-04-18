@@ -1,16 +1,16 @@
 {
-  "name": "PRESALE 1T OPCION#0",
-  "image": "https://essential-writer-codebase.github.io/connect-wallet-ton/images/logo-nft.png",
+  "name": "PRESALE 2T OPCION#0",
+  "image": "https://essential-writer-codebase.github.io/connect-wallet-ton/images/logo-nft2.png",
   "buttons": [
     {
       "label": "GET",
-      "uri": "https://testnet.getgems.io/collection/EQBBtIgbq1FhKAdjRNFXlK6Ex5UFrceOrcUXcOSval6BBf1I"
+      "uri": "https://mail.ru"
     }
   ],
   "attributes": [
     {
       "trait_type": "Value",
-      "value": "1T"
+      "value": "2T"
     }
   ],
   "description": "just do it"
