@@ -1,0 +1,33 @@
+{
+  "name": "PRESALE 2T OPCION#2 PETROVICH",
+  "image": "https://essential-writer-codebase.github.io/connect-wallet-ton/images/logo-nft.png",
+  "buttons": [
+    {
+      "label": "GET",
+      "uri": "https://mail.ru"
+    },
+    {
+      "label": "GO TO PREMARKET",
+      "uri": "https://yandex.ru"
+    },
+    {
+      "label": "GO TO PREMARKET#2",
+      "uri": "https://rambler.ru"
+    },
+    {
+      "label": "GO TO PREMARKET#3",
+      "uri": "https://aftershock.news"
+    },
+    {
+      "label": "GO TO PREMARKET4",
+      "uri": "https://lenta.ru"
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "PETROVICH",
+      "value": "HRENOVA"
+    }
+  ],
+  "description": "just do it PETROVICH"
+}
