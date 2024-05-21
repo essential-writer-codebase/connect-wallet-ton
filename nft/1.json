@@ -3,11 +3,11 @@
   "image": "https://essential-writer-codebase.github.io/connect-wallet-ton/images/logo-nft.png",
   "buttons": [
     {
-      "label": "GET",
+      "label": "GET(CHANGED)",
       "uri": "https://mail.ru"
     },
     {
-      "label": "GO TO PREMARKET",
+      "label": "GO TO PREMARKET(CHANGED)",
       "uri": "https://yandex.ru"
     }
   ],
