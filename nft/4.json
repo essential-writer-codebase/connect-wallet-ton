@@ -1,0 +1,18 @@
+{
+  "buttons": [
+    {
+      "label": "NOT LINK",
+      "uri": "#"
+    },
+
+  ],
+  "attributes": [
+    {
+      "trait_type": "TEST NFT",
+      "value": "ITS TRUE"
+    }
+  ],
+  "description": "ITS TEST NFT",
+  "name": "TRUE TEST NFT",
+  "image": "https://essential-writer-codebase.github.io/connect-wallet-ton/images/logo-nft.png"
+}
